@@ -7,6 +7,7 @@ useNoteTitleForLink: true
 noAutoCreateOnDefinition: true
 noLegacyNoteRef: true
 site:
+    siteUrl: https://www.marcopolita.me/brain/
     copyAssets: true
     siteHierarchies:
         - root

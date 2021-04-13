@@ -2,12 +2,12 @@
 id: 4ddc16fc-0bf8-42ee-b292-5214cee9ab0c
 title: GOTOpia 2020
 desc: ''
-updated: 1618319604428
+updated: 1618323553614
 created: 1618319229170
 ---
 
 ## War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile - Allen Hollub
-![](confs.gotopia_2020.1.png)
+![](/assets/images/confs.gotopia_2020.1.png)
 * What is Agile and what is not
 * Is
   * Continuous communication
@@ -64,7 +64,7 @@ created: 1618319229170
   * Develop culture by example
   * Bring and transfer technical knowledge
     * EG: building the first pipeline
-  *  ![some enabler team models](confs.gotopia_2020.2.png)
+  *  ![some enabler team models](/assets/images/confs.gotopia_2020.2.png)
   * Enabler team typical dissolve
 * 4 eyes principle requires active partecipation of unlocking managers
   * Part of the culture
