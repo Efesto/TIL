@@ -1,4 +1,10 @@
-# Domain Driven Design - Eric Evans
+---
+id: 38da90b2-6b96-4da7-be74-80a4c127daf2
+title: Domain Driven Design - Eric Evans
+desc: ''
+updated: 1618319296629
+created: 1618319123664
+---
 
 ## Part 1 - Putting the Domain model to Work
 
@@ -39,3 +45,5 @@
   * Easy to learn
   * Pragmatic
   * Kind like Etherpad for diagrams
+
+

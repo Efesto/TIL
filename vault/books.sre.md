@@ -1,11 +1,17 @@
-## SRE Book from Google
+---
+id: 910ce3c9-4718-4aa6-83a9-1cec487f3ab8
+title: SRE Book from Google
+desc: ''
+updated: 1618319212475
+created: 1618319164702
+---
 https://landing.google.com/sre/sre-book/toc/
 
 > Hope is not a strategy
 
 - The classic Developers + Operators approach to build and maintain systems is surpassed
   - It generates contrast between desire for a fast system change delivery vs desire for system stability
-- SRE can be seen as a subset of Devops
+- SRE can be  ̑seen as a subset of Devops
 - An SRE team is composed by a variagated set of skills spacing from developing to system maintenance
   - People who gets easily irritated by repeatitive and boring manual tasks and therefor wish to automate them are a good fit
   - *Toil* is the word
@@ -39,3 +45,5 @@ https://landing.google.com/sre/sre-book/toc/
   - Useful for systems that do not typically serve end users directly
 
 (Continues from CHP 3)
+
+

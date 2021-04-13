@@ -1,5 +1,13 @@
+---
+id: 4ddc16fc-0bf8-42ee-b292-5214cee9ab0c
+title: GOTOpia 2020
+desc: ''
+updated: 1618319604428
+created: 1618319229170
+---
+
 ## War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile - Allen Hollub
-![](1.png)
+![](confs.gotopia_2020.1.png)
 * What is Agile and what is not
 * Is
   * Continuous communication
@@ -56,7 +64,7 @@
   * Develop culture by example
   * Bring and transfer technical knowledge
     * EG: building the first pipeline
-  *  ![some enabler team models](2.png)
+  *  ![some enabler team models](confs.gotopia_2020.2.png)
   * Enabler team typical dissolve
 * 4 eyes principle requires active partecipation of unlocking managers
   * Part of the culture
@@ -67,7 +75,6 @@
 * Mentorship is a way to teach and to learn
 * An organization where is too risky to let a Junior to put code in production has some problem
 * We as Scientists are experimenting and errors are part of that
-* 
 
 ## Take Aways
 * have a look at gRPC
@@ -77,3 +84,4 @@
 * Software development metrics - Time in process, percentages (as a meaning for estimation), identify the real goal, consider, fixed cost time (like commuting)
 * Normal distribution for estimation doesn't make sense, what makes sense is average time of things in processing time
 * Enabler team is a really cool concept for pushing devops
+
