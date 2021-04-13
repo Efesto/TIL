@@ -1,14 +1,10 @@
 ---
-id: 459e4c5e-c58e-49d1-883e-60665b5358d6
-title: MySql
+id: c83358fb-678a-40c9-a0c8-5e6f2234b822
+title: Gotchas
 desc: ''
-updated: 1618306933275
-created: 1618306673397
+updated: 1618307916492
+created: 1618307908767
 ---
-
-# MySql
-
-## Some gotchas of using MySql that don't happen with [Postgresql]
 
 - Mysql uses empty strings and meaningless values for default null columns
 - MySql changes decimal input according to the set precision (eg 2,0 precision with 100 becomes 99)
