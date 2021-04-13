@@ -62,7 +62,7 @@
     }
   
     function initNavBar() {
-      return fetch("https://www.marcopolita.me/brain/nav.html").then(function (response) {
+      return fetch("https://www.marcopolita.me/brain/brain/nav.html").then(function (response) {
         return response.text().then((content) => {
           replaceNav(content);
           return;
@@ -80,7 +80,7 @@
     function initSearch() {
       var request = new XMLHttpRequest();
       // TODO: CHECK IF THIS WORKS WITHOUT ABSOLUTE_URL
-      request.open("GET", "https://www.marcopolita.me/brain/assets/js/search-data.json", true);
+      request.open("GET", "https://www.marcopolita.me/brain/brain/assets/js/search-data.json", true);
   
       request.onload = function () {
         if (request.status >= 200 && request.status < 400) {
@@ -514,7 +514,7 @@
       var cssFile = document.querySelector('[rel="stylesheet"]');
       cssFile.setAttribute(
         "href",
-        'https://www.marcopolita.me/brain/assets/css/just-the-docs-' + theme + ".css"
+        'https://www.marcopolita.me/brain/brain/assets/css/just-the-docs-' + theme + ".css"
       );
     };
   
