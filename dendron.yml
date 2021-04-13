@@ -7,7 +7,6 @@ useNoteTitleForLink: true
 noAutoCreateOnDefinition: true
 noLegacyNoteRef: true
 site:
-    assetsPrefix: brain
     siteUrl: https://www.marcopolita.me/brain/
     copyAssets: true
     siteHierarchies:
