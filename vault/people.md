@@ -2,12 +2,10 @@
 id: d2169af8-df0b-44e0-b524-663b40a3f0f1
 title: People
 desc: ''
-updated: 1618385596796
+updated: 1618392114930
 created: 1618384631377
 stub: true
 ---
-
-## on change
 
 [Change your organization diary](https://proxy.c2.com/cgi/wiki?ChangeYourOrganizationDiary)
 
