@@ -2,7 +2,7 @@
 id: c7949240-de85-4915-a47d-bf37c97354b6
 title: 'Hunt: Showdown'
 desc: ''
-updated: 1618675201288
+updated: 1618676042671
 created: 1618671307092
 ---
 
@@ -33,6 +33,7 @@ Per individuare gli indizi e i mostri da eliminare i cacciatori utilizzano la co
 
 ### Funnies
 - [On hunt firearms](https://www.youtube.com/watch?v=dLE31drHO0Y)
+- [My gameplays playlist](https://www.youtube.com/playlist?list=PLZIdQuKML5p_6QyxSYTyEIbuDR8rtl9AA)
 
 ### FAQ
 - Are the DLCs adding something "something"?
