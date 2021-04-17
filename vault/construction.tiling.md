@@ -2,14 +2,14 @@
 id: dfd25d12-6f59-4ee6-852a-2d0ba00edea5
 title: Tiling
 desc: ''
-updated: 1618516249334
+updated: 1618674539622
 created: 1618389193912
 ---
 
 ## Things to consider before starting
 - Tiles positioning
 - Tiles direction
-- Plaster color
+- Grout color
 - Profiles style for corners and frames
 - How straight are the walls and eventually problematic parts
 - Positions of pipes, bathroom appliances
@@ -22,7 +22,7 @@ created: 1618389193912
 - Paper tape
 - Screwdriver
 - Tile glue concrete
-- Plaster
+- Grout
 - Hammer
 - Screw anchors for tiles
   - Plastic anchor for insulating the hole
