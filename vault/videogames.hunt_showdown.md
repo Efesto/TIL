@@ -2,7 +2,7 @@
 id: c7949240-de85-4915-a47d-bf37c97354b6
 title: 'Hunt: Showdown'
 desc: ''
-updated: 1618672938187
+updated: 1618675201288
 created: 1618671307092
 ---
 
@@ -20,6 +20,8 @@ Inoltre la mappa è infestata di mob controllati dall'AI che possono rendere la 
 Per individuare gli indizi e i mostri da eliminare i cacciatori utilizzano la così detta Dark Sight o Vista Oscura. Quando il giocatore la usa, il mondo diventa sfocato e avvolto dall'oscurità mentre gli indizi e i mostri splendono come luci azzurre ed emettono un bisbiglio demoniaco molto riconoscibile. Una volta preso il token, questo è indicato nella Vista Oscura come un fulmine che colpisce il punto dove si trova e il possessore del token dispone di cinque secondi di Vista Oscura Potenziata. In questa modalità può vedere anche i cacciatori nemici attraverso ogni genere di ostacolo sotto forma di fiamme arancioni. -- Grampasso
 
 ### For beginners
+![](/brain/assets/images/2021-04-17-18-59-56.png)
+
 - [100 Tips and Tricks](https://www.youtube.com/watch?v=UxQ4U13e3XQ)
 - [50 more tips and tricks](https://www.youtube.com/watch?v=HGLhehF85U8)
 - [Good habits](https://www.youtube.com/watch?v=qB82ucBEQ0M)
@@ -31,3 +33,13 @@ Per individuare gli indizi e i mostri da eliminare i cacciatori utilizzano la co
 
 ### Funnies
 - [On hunt firearms](https://www.youtube.com/watch?v=dLE31drHO0Y)
+
+### FAQ
+- Are the DLCs adding something "something"?
+  - The DLCs are only for skins, they don't actually add anything to the gameplay
+
+- How many players per match?
+  - Each game contains max 12 players, divided in trios, duos or solos
+ 
+- Is there crossplay?
+  - Only between Xbox and PS4/5
