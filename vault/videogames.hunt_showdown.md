@@ -2,7 +2,7 @@
 id: c7949240-de85-4915-a47d-bf37c97354b6
 title: 'Hunt: Showdown'
 desc: ''
-updated: 1618935854486
+updated: 1618936740433
 created: 1618671307092
 ---
 
@@ -58,3 +58,18 @@ La Caccia. -- Grampasso
  
 - Is there crossplay?
   - Only between Xbox and PS4/5
+
+
+### Quickplay
+> The best way to learn how to shoot people and not caring about money
+
+- 12 players per server
+- Everyone against everyone
+- Random starting weapon, but you can choose between 4 categories
+- Around the map you'll find weapons and equipment
+- Goal: close the rift and being the first to close the last and become the wellspring OR kill the wellspring
+- Only the wellspring will survive and the hunter together with his equipment and trait will be available for recruiting
+- Everytime a rift is closed a random trait is assigned to the hunter
+- When a player closes 4 rifts and becomes the wellspring, all the other rifts will be disabled
+- When a player is the wellspring is visible to everyone (similarly to the bounty carrier) but additionally will be visible as an orange shadow in darksight
+- Experience with weapons is kept even if the hunter doesn't survive
