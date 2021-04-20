@@ -2,7 +2,7 @@
 id: c7949240-de85-4915-a47d-bf37c97354b6
 title: 'Hunt: Showdown'
 desc: ''
-updated: 1618676170366
+updated: 1618935785608
 created: 1618671307092
 ---
 
@@ -13,11 +13,23 @@ created: 1618671307092
 
 > Hunt: Showdown is a thrilling, high-stakes PvPvE first-person shooter. Take down nightmarish monsters, as you compete for the bounties that will bring you glory, gear, and gold in this unforgiving – and unforgettable - online multiplayer experience.
 
-> "Hunt: Showdown" è uno sparatutto PvP/PvE ambientato nella Lousiana del 1895. I giocatori impersonano dei cacciatori di mostri mercenari inviati a eliminare delle creature demoniache che hanno invaso il bayou, le paludi salmastre tipiche della costa.
-La modalità di gioco principale si chiama Caccia alla Taglia e consiste nel muoversi nei vari complessi sulla mappa (chiese, fattorie, fabbriche, fortificazioni della Guerra Civile, eccetera) indagando degli Indizi lasciati da queste creature. Ogni volta che si indaga su uno di questi indizi, l'area dove indagare gli indizi successivi si riduce fino a indicare la località dove il mostro si nasconde. A quel punto, i giocatori devono raggiungere la tana, uccidere il mostro, bandirlo tramite un rituale e raccogliere una prova dell'uccisione chiamata token. I cacciatori a questo punto devono raggiungere uno dei punti di estrazione indicati sulla mappa portandosi dietro il token.
-Tutto questo mentre gli altri giocatori fanno lo stesso e non esistono regole che impediscano di scannarsi fra loro per ottenere il token 😁😈
-Inoltre la mappa è infestata di mob controllati dall'AI che possono rendere la partita più complicata. Si va dai semplici zombie che attaccano con armi improvvisate a mastini non morti, da vecchie controllate da sciami di api demoniache con un alveare costruito all'interno della cassa toracica esplosa a branchi di vermi acquatici carnivori che ti sbranano tipo piranha se gli capiti a tiro.
-Per individuare gli indizi e i mostri da eliminare i cacciatori utilizzano la così detta Dark Sight o Vista Oscura. Quando il giocatore la usa, il mondo diventa sfocato e avvolto dall'oscurità mentre gli indizi e i mostri splendono come luci azzurre ed emettono un bisbiglio demoniaco molto riconoscibile. Una volta preso il token, questo è indicato nella Vista Oscura come un fulmine che colpisce il punto dove si trova e il possessore del token dispone di cinque secondi di Vista Oscura Potenziata. In questa modalità può vedere anche i cacciatori nemici attraverso ogni genere di ostacolo sotto forma di fiamme arancioni. -- Grampasso
+> Lousiana, 1895.
+Trent’anni sono passati dalla grande Guerra Civile che ha insanguinato gli Stati Uniti. Un tempo terribile dove fratelli hanno sparso il sangue di altri fratelli, i padri quello dei figli e i figli quello dei genitori. L’orrore è stato molto, la sofferenza insostenibile.
+La terra deve ancora riprendersi da tanta devastazione e un nuovo, tremendo flagello la sta colpendo.
+La Piaga è arrivata.
+I morti tornano in vita, abomini blasfemi calcano le strade del bayou, le paludi salmastre della costa, seminando morte, distruzione e malattia. La natura stessa sembra trasformarsi in una grottesca e folle imitazione della vita. Gli abitanti dei villaggi, delle fattorie e dei porti sono costretti a difendersi come possono o fuggono abbandonando le loro case.
+Pochi restano a combattere.
+Tanti muoiono travolti dalle creature demoniache.
+Troppi perdono il lume della ragione e si smarriscono nell’oscurità delle loro menti.
+E allora comparvero i Cacciatori.
+Venuta a conoscenza della situazione, la American Hunters Association ha inviato i suoi Cacciatori, mercenari maledetti dal dono della Vista Oscura, assassini ed eroi il cui compito è tracciare, inseguire, abbattere e bandire agli Inferi le mostruosità fuggite dai gironi infernali che ora scavano la loro strada nella carne e nel sangue della Louisiana. Grazie al loro potere, i Cacciatori possono vedere le tracce del Male, possono sentire i sussurri velenosi della follia e con fuoco, proiettili, lame e incrollabile volontà possono schiacciare le grottesche creature che li generano.
+Qualcuno arriva nel bayou per purificare la terra dal Male.
+Qualcuno per inseguire la gloria.
+Qualcun altro in cerca di denaro e bottino.
+Altri per redimersi dal crimini del loro passato.
+Altri ancora per perpetrare la loro oscura vendetta.
+Ma tutti sono qui per una cosa e una cosa soltanto.
+La Caccia. -- Grampasso
 
 ### For beginners
 ![](/brain/assets/images/2021-04-17-18-59-56.png)
