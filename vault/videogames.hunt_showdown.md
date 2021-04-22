@@ -2,7 +2,7 @@
 id: c7949240-de85-4915-a47d-bf37c97354b6
 title: 'Hunt: Showdown'
 desc: ''
-updated: 1618937112496
+updated: 1619079161439
 created: 1618671307092
 ---
 
@@ -48,6 +48,32 @@ La Caccia. -- Grampasso
 - [My gameplays playlist](https://www.youtube.com/playlist?list=PLZIdQuKML5p_6QyxSYTyEIbuDR8rtl9AA)
 - [Grampasso's playlist](https://www.youtube.com/playlist?list=PLP6vFeahgVQMV4iw3WAlG0TGQ-tTCPHJy)
 - [Soundtrack](https://open.spotify.com/artist/3vfSIBYEThPQXe3LXityGk)
+
+### How to deal with
+#### Immolators
+- Good for spotting enemy hunters
+- After punched, they die after some time
+
+Yes: 
+- Poison ammo (one shot)
+- Blunt attacks
+- Choke bombs
+
+Nope:
+- Stabbing and slicing attacks
+- Shooting
+- Fire (duh)
+
+#### Hounds
+- Clean the area of them before start shooting, these fuckers bite
+- Start to be a challenge to be killed alone when more than 3
+
+Yes: 
+- Stabbing with knife by charging them
+- Punching on the face (one shot)
+- Headshots with nagant silenced
+- Firebombs (for quickly cleaning an area and blocking their attack way)
+
 
 ### FAQ
 - Are the DLCs adding something "something"?
