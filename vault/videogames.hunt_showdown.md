@@ -2,7 +2,7 @@
 id: c7949240-de85-4915-a47d-bf37c97354b6
 title: 'Hunt: Showdown'
 desc: ''
-updated: 1619079161439
+updated: 1620154548194
 created: 1618671307092
 ---
 
@@ -49,8 +49,8 @@ La Caccia. -- Grampasso
 - [Grampasso's playlist](https://www.youtube.com/playlist?list=PLP6vFeahgVQMV4iw3WAlG0TGQ-tTCPHJy)
 - [Soundtrack](https://open.spotify.com/artist/3vfSIBYEThPQXe3LXityGk)
 
-### How to deal with
-#### Immolators
+## How to deal with
+### Immolators
 - Good for spotting enemy hunters
 - After punched, they die after some time
 
@@ -64,7 +64,7 @@ Nope:
 - Shooting
 - Fire (duh)
 
-#### Hounds
+### Hounds
 - Clean the area of them before start shooting, these fuckers bite
 - Start to be a challenge to be killed alone when more than 3
 
