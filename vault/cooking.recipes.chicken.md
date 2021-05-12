@@ -2,11 +2,11 @@
 id: 79a7e435-09d6-4972-b566-7bea856b54c6
 title: Chicken
 desc: ''
-updated: 1620154338741
+updated: 1620803960570
 created: 1620154333639
 ---
 
-## Marinated Chickend
+## Marinated Chicken
 - 2 Tbs balsamic vinegard
 - 2 Tbs Extravirgin olive oil
 - Cumin
