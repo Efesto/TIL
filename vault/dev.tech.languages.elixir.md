@@ -2,13 +2,14 @@
 id: 4a393d90-2cfb-48d0-ac13-b4b4eb62b134
 title: Elixir
 desc: ''
-updated: 1618917109555
+updated: 1621528173004
 created: 1618384711136
 ---
 
 - The world of Elixir Http Clients is complex and Tesla is a good all around choice
 - [Keathley about Finch and Http clients](https://elixirforum.com/t/mint-vs-finch-vs-gun-vs-tesla-vs-httpoison-etc/38588/11)
 - [Slab and building a real time collaboration tool](https://elixir-lang.org/blog/2020/11/17/real-time-collaboration-with-elixir-at-slab/)
+- [Custom ExUnit assertions](https://www.crustofcode.com/custom-assertions-with-exunit/)
 
 ### Secure coding guidelines
 https://erlef.github.io/security-wg/secure_coding_and_deployment_hardening/
