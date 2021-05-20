@@ -2,18 +2,20 @@
 id: 43b36e0c-16e7-48db-a457-2bdbee043577
 title: How_to_potato
 desc: ''
-updated: 1621527887471
+updated: 1621529080323
 created: 1621527505161
 ---
 
 ## The potato lasagna
 
+### Ingredients
 - 5/6 medium sized potatoes
 - [[cooking.recipes.bechamel]]
 - Butter
 - Cheese
 - Whatever else
 
+### Preparation
 - Peel and cut some potatoes in big slices (around 5/6 medium sized)
 - Boil the slices for 5 minutes
 - Turn on the oven at around 180 degrees
