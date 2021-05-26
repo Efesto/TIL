@@ -2,16 +2,18 @@
 id: 2cea0ab7-cb12-4783-8a36-2f02f6203c20
 title: Retrospectives
 desc: ''
-updated: 1619017086239
+updated: 1622014071925
 created: 1619016409362
 ---
 
 
 [Tips for retrospectives](https://www.youtube.com/watch?v=Y-5AuMoWgxM)
 
+### Must have
 - Core team should be there
 - Managers should not be there
 - Good facilitator must know how to make people relax
+- Review previous retrospectives action items before starting the new one
 
 __The soup exercise__
   - Define a circle of things within team's control
