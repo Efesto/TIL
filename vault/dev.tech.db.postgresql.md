@@ -2,7 +2,7 @@
 id: ec4e2203-affb-46b5-9933-5a6bc03210e0
 title: Postgresql
 desc: ''
-updated: 1621600516122
+updated: 1622208033167
 created: 1618307316347
 ---
 
@@ -25,7 +25,7 @@ created: 1618307316347
 - [Ordered indexes](https://www.postgresql.org/docs/13/indexes-ordering.html)
 - [Partial indexes](https://www.postgresql.org/docs/13/indexes-partial.html)
   - Cool if the queries occurs mostly on a subset, doesn't replace partitioning tho
-
+- [Listen/Notify](https://www.postgresql.org/docs/current/sql-notify.html)
 
 ## Tips and tricks
 
