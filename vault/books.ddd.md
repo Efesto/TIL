@@ -2,7 +2,7 @@
 id: 38da90b2-6b96-4da7-be74-80a4c127daf2
 title: Domain Driven Design - Eric Evans
 desc: ''
-updated: 1618319296629
+updated: 1622799177546
 created: 1618319123664
 ---
 
@@ -35,15 +35,6 @@ created: 1618319123664
   * Internet Explorer favs stored as files but not explicitly showed as so to the user
 
 ## Part 2 - The Building blocks of a Model-Driven design
-### 
 
-## NOTES
-
-* UML is not so bad if kept informal
-* I need to find a tool for sharing informal diagrams
-  * No registration required
-  * Easy to learn
-  * Pragmatic
-  * Kind like Etherpad for diagrams
 
 
