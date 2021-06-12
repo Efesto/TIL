@@ -2,7 +2,7 @@
 id: 8c58e3ae-d67a-4790-947d-1cb4dd3f23ad
 title: Bechamel
 desc: ''
-updated: 1623488586307
+updated: 1623524970412
 created: 1621527745158
 ---
 
@@ -11,7 +11,7 @@ created: 1621527745158
 - Butter
 - Milk
 
-Flour and milk must be the same quantities
+Flour and butter must be in the same quantity
 
 ### Preparation
 - Melt the butter in a pot
