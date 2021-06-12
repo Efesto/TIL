@@ -2,7 +2,7 @@
 id: 8874f71e-fc8c-4c18-9fb1-b2bc125a8c01
 title: Pair programming
 desc: ''
-updated: 1622206119922
+updated: 1623231198573
 created: 1622205611966
 ---
 
@@ -25,5 +25,11 @@ Cannot come out of nothing, must be trained, like a muscle and continuously, lik
 ### For remote
 - Show your face
 - Switch host side
+
+**Doesn't work**
+- Organize free for all sessions
+  - Nobody will skip them and too many people will be present
+
+
 
 
