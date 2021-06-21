@@ -2,7 +2,7 @@
 id: c0916890-936f-4f17-9c85-1960d763f744
 title: Kubernetes
 desc: ''
-updated: 1623403727055
+updated: 1624019941279
 created: 1622209333900
 ---
 
@@ -27,10 +27,11 @@ https://kubernetes.io/
 * ConfigMaps - maps of configuration for the applications
   * Can be exposed as file, as env variable and so on
 * [Workload](https://kubernetes.io/docs/concepts/workloads/) - An application running on Kubernetes
-* [Operators](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) - 
+* [Operators](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/)
+* [Volumes](https://kubernetes.io/docs/concepts/storage/volumes/) - File persistency provider
 
 ### Tools
-https://github.com/Shopify/krane
+https://github.com/Shopify/krane - For deployments visibility after apply
 
 
 [[dev.tech.languages.elixir_erlang.kubernetes]]
