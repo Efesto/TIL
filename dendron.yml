@@ -7,7 +7,7 @@ useNoteTitleForLink: true
 noAutoCreateOnDefinition: true
 noLegacyNoteRef: true
 site:
-    siteUrl: https://www.marcopolita.me/brain/
+    siteUrl: 'https://www.marcopolita.me/brain/'
     copyAssets: true
     siteHierarchies:
         - root
@@ -20,3 +20,10 @@ site:
         payload:
             - vault
 initializeRemoteVaults: true
+journal:
+    dailyDomain: daily
+    name: journal
+    dateFormat: y.MM.dd
+    addBehavior: childOfDomain
+    firstDayOfWeek: 1
+dendronVersion: 0.47.1
