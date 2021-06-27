@@ -2,13 +2,13 @@
 id: c7949240-de85-4915-a47d-bf37c97354b6
 title: 'Hunt: Showdown'
 desc: ''
-updated: 1620154548194
+updated: 1624789662204
 created: 1618671307092
 ---
 
 ![](/brain/assets/images/2021-04-17-18-10-38.png)
 - [Store Page](https://steamcommunity.com/app/594650)
-- [Steam chart](https://steamcharts.com/app/594650#All)
+- [Steam chart](https://steamdb.info/app/594650/graphs)
 - [Official news](https://www.huntshowdown.com/news)
 
 > Hunt: Showdown is a thrilling, high-stakes PvPvE first-person shooter. Take down nightmarish monsters, as you compete for the bounties that will bring you glory, gear, and gold in this unforgiving – and unforgettable - online multiplayer experience.
