@@ -10,6 +10,7 @@ created: 1618384711136
 - [Keathley about Finch and Http clients](https://elixirforum.com/t/mint-vs-finch-vs-gun-vs-tesla-vs-httpoison-etc/38588/11)
 - [Slab and building a real time collaboration tool](https://elixir-lang.org/blog/2020/11/17/real-time-collaboration-with-elixir-at-slab/)
 - [Custom ExUnit assertions](https://www.crustofcode.com/custom-assertions-with-exunit/)
+- [Some neat NIF example](https://dev.to/rodrigocaldeira/elixir-and-nif-a-study-case-2npp)
 
 ### Secure coding guidelines
 https://erlef.github.io/security-wg/secure_coding_and_deployment_hardening/
